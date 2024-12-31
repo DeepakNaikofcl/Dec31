@@ -10,6 +10,10 @@ public class BankExceptionDemo {
 		sbi.withDraw(7000);
 		sbi.withDraw(1000);
 		
+		sbi.deposit(5000);
+		sbi.deposit(67000);
+		sbi.deposit(4500);
+		
 	}
 
 }
